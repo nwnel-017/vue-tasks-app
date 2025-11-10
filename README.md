@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# Welcome to my Project!
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple to do tasks app I built using Vue.js and TypeScript. To test my app, follow these instructions from the command line:
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+-git clone https://github.com/nwnel-017/vue-tasks-app.git
+-npm install
+-npm run dev
