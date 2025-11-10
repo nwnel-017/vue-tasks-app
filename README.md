@@ -1,7 +1,7 @@
 # Welcome to my Project!
 
-This is a simple to do tasks app I built using Vue.js and TypeScript. To test my app, follow these instructions from the command line:
+This is a simple to do tasks app I built using Vue.js and TypeScript. To test my app, follow these instructions from the command line:<br>
 
--git clone https://github.com/nwnel-017/vue-tasks-app.git
--npm install
+-git clone https://github.com/nwnel-017/vue-tasks-app.git<br>
+-npm install<br>
 -npm run dev
